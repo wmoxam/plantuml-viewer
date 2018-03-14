@@ -3,7 +3,7 @@
 Renders UML diagram as defined in a text file. For full syntax, see:
 http://plantuml.sourceforge.net/index.html
 
-1. Install the extension from Chrome Web Store.
+1. Install the [extension](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj?hl=en) from Chrome Web Store.
 2. Check "Allow access to file URLs" in chrome://extensions/.
 3. Open local or remote text file with UML diagram definition in browser (the text starts with @startuml).
 4. See the rendered UML diagram!
